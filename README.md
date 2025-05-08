@@ -1,7 +1,7 @@
 ### Hello, World!
 
 📚 Systems Analysis and Development Student <br>
-✨ Currently learning JavaScript and Digital Logic
+✨ Currently learning Object Pascal
 
 ##
 
