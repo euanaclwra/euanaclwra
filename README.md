@@ -1,7 +1,7 @@
 ### Hello, World!
 
 📚 Systems Analysis and Development Student <br>
-✨ Currently learning Object Pascal
+✨ Currently learning Delphi (Object Pascal)
 
 ##
 
